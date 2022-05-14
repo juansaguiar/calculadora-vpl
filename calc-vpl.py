@@ -9,6 +9,7 @@ print(" ")
 ano1 = int(input("ANO 1: "))
 ano2 = int(input("ANO 2: "))
 ano3 = int(input("ANO 3: "))
+print("---")
 
 calc1 = juros / 100 + 1
 calc2 = ano1 / calc1
